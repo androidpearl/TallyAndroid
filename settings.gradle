@@ -1,2 +1,2 @@
 include ':tally'
-rootProject.name = "Cyborg"
+rootProject.name = "TallyAndroid"
