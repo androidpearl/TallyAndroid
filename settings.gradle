@@ -1,0 +1,2 @@
+include ':tally'
+rootProject.name = "Cyborg"
